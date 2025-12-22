@@ -1,0 +1,8 @@
+html,
+body {
+  background-color: black;
+  max-width: 800px;
+  min-height: 100vh;
+  margin: 0px auto;
+  color: white;
+}
