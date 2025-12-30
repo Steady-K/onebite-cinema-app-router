@@ -3,7 +3,6 @@ import styles from "./page.module.css";
 import { MovieData } from "@/types";
 import { delay } from "@/util/delay";
 import { Suspense } from "react";
-import MovieItemSkeleton from "@/components/skeleton/movie-item-skeleton";
 import MovieListSkeleton from "@/components/skeleton/movie-list-skeleton";
 
 async function AllMovies() {
