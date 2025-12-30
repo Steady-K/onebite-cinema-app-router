@@ -1,0 +1,14 @@
+.img {
+  background-color: rgb(230, 230, 230);
+}
+
+.container.reco .img {
+  width: 263px;
+  height: 382px;
+}
+
+.container.list .img {
+  width: 156px;
+  height: 229px;
+  background-color: rgb(230, 230, 230);
+}
