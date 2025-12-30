@@ -1,14 +1,12 @@
 .img {
+  width: 100%;
   background-color: rgb(230, 230, 230);
 }
 
 .container.reco .img {
-  width: 263px;
-  height: 382px;
+  aspect-ratio: 263 / 382;
 }
 
 .container.list .img {
-  width: 156px;
-  height: 229px;
-  background-color: rgb(230, 230, 230);
+  aspect-ratio: 156 / 229;
 }
